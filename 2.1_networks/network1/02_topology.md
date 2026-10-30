@@ -5,7 +5,9 @@
 ### 2.1 Devices Used
 List all devices added to your Packet Tracer workspace.
 
-_Write your list here…_
+switch
+PCs
+Copper straight-Through cables_
 
 ### 2.2 Topology Screenshot
 Insert your topology screenshot (saved inside `images/`).
